@@ -1,39 +1,20 @@
-<<<<<<< HEAD
-<!-- Banner SAGA -->
+<!-- Banner SAE -->
 <div align="center">
-	<img height="200px" src="public/img/logo_green_2023.png" alt="Logo SENA"/>
-  <img height="200px" src="public/img/logo.jpg" alt="Logo SAGA"/>
+	<img height="200px" src="../public/img/logo_green_2023.png" alt="Logo SENA"/>
+  <img height="200px" src="../public/img/logo.jpg" alt="Logo SAGA"/>
 </div>
 <br>
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=00BFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+SAE;A+business+system" alt="Typing SVG SAE"/>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1AFF02&center=true&vCenter=true&width=435&lines=Bienvenidos+a+SAE;Un+proyecto+de+Node.js+y+React.js" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
-<p align="center"> <img height="24px" src="https://komarev.com/ghpvc/?username=xh0pe&label=Users&color=1abc58&style=flat" alt="Counter" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xh0pe&label=Usuarios&color=1abc58&style=flat" alt="Counter" /> </p>
+
 
 <p>
   ·
   <a href="/docs/readme_es.md">Español</a>
-=======
-<!-- Banner SAE -->
-<div align="center">
-	<img height="200px" src="../public/img/logo_green_2023.png" alt="Logo SENA"/>
-  <img height="200px" src="../public/img/SAGA.svg" alt="Logo SAGA"/>
-</div>
-<br>
-<div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Bienvenidos+a+SAE;Un+proyecto+enfocado+en+las+ventas+y+vendedores" alt="Typing SVG" /></a>
-</div>
-<br>
-<div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xh0pe&label=Usuarios&color=00BFFF style=flat" alt="Counter" /> </p>
-
-
-<p>
-  ·
-  <a href="/doc/readme_es.md">Español</a>
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
   ·
 </p>
 
@@ -48,11 +29,7 @@
 <!-- Información principal -->
 # SAE
 
-<<<<<<< HEAD
-SAE is a project focused on solving the business disorder that large and small companies present in the area of sales.
-=======
-SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan las grandes y pequeñas empresas en el tema de las ventas
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
+SAGA es un sistema diseñado para mejorar la administracion de pequeñas y grandes empresas
 
 <!-- Stack utilizado -->
 ## Tech Stack
@@ -74,28 +51,16 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <p>
-<<<<<<< HEAD
-  In this project, it is possible to use Yarn as an alternative to npm.
-=======
   En este proyecto es posibles utilizan yarn como npm.
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 </p>
 
 ### 🐱‍💻Back-end
 <p>
-<<<<<<< HEAD
-  To run the server, start by navigating to the root directory of the <a href="./backend/">backend</a> 
-</p>
-
-<p>
-  Once here, install the Yarn/npm dependencies.
-=======
   Para ejecutar el servidor primero entramos al directorio raíz del <a href="./backend/">backend</a> 
 </p>
 
 <p>
   Estando acá instalamos las dependencias de yarn/npm
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 </p>
 
 ```bash
@@ -105,12 +70,7 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 **Development**
 <p>
-<<<<<<< HEAD
-  If you are using it in a development environment, use:
-
-=======
   Si se utiliza en desarrollo utilizaremos:
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 </p>
 
 ```bash
@@ -118,19 +78,15 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 ```
 
 <div align="center">
-	<img src="./public/img/backend_dev.png" alt="Backend running"/>
+	<img src="../public/img/backend_dev.png" alt="Backend running"/>
 </div>
 
 <br>
 
 **Production**
 <p>
-<<<<<<< HEAD
-  For production, use:</p>
-=======
   Y para producción utilizaremos:
 </p>
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 
 ```bash
   yarn star
@@ -138,19 +94,11 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 ---
 ### 💻Front-end
 <p>
-<<<<<<< HEAD
-  To run the front-end view, navigate to the root directory of the <a href="./frontend/">frontend</a> 
-</p>
-
-<p>
-  While here, install the Yarn/npm dependencies, and we utilize Vite<a href="https://vitejs.dev/"> here.</a>
-=======
-  Para ejecutar la vista entraremos al directorio raíz del <a href="./frontend/">frontend</a> 
+  Para ejecutar la vista entraremos al directorio raíz del <a href="../public/img/frontend_dev.png">frontend</a> 
 </p>
 
 <p>
   Estando acá instalamos las dependencias de yarn/npm acá utilizamos <a href="https://vitejs.dev/">vite</a>
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 </p>
 
 ```bash
@@ -160,11 +108,7 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 **Development**
 <p>
-<<<<<<< HEAD
-  If you are using it in a development environment, use:
-=======
   Si se utiliza en desarrollo utilizaremos:
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 </p>
 
 ```bash
@@ -178,11 +122,7 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 **Production**
 <p>
-<<<<<<< HEAD
-For production, use:
-=======
   Y para producción utilizaremos:
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 </p>
 
 ```bash
@@ -194,28 +134,15 @@ For production, use:
 ## 👨‍💻Authors
 
 - [@Juancastro27](https://github.com/juancastro27)
-- [@EdwardoM28](https://github.com/EdwardM28)
-<<<<<<< HEAD
+- [@EdwardM28](https://github.com/EdwardM28)
 - [@katheszv](https://github.com/katheszv)
-=======
-- [@kathe](https://github.com/XH0PE)
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc
 
 ## 👨‍🏫Leaders Instructors
 - [@hdtoledo](https://github.com/hdtoledo)
 
-
 <!-- Documentación oficial -->
-<<<<<<< HEAD
-## Official Documentation
-
-[Documentación v1.9](https://docs.google.com/document/d/1Savy7Rl1RXcVc7oTE73I-Ue3_nd-7G1Z/edit?usp=sharing&ouid=102635390576364738500&rtpof=true&sd=true)
-
-Made with ❤️ and JavaScript.
-=======
 ## Documentación Oficial
 
 [Documentación v1.9](https://docs.google.com/document/d/1Savy7Rl1RXcVc7oTE73I-Ue3_nd-7G1Z/edit?usp=sharing&ouid=102635390576364738500&rtpof=true&sd=true)
 
 Hecho con :heart: y JavaScript.
->>>>>>> 75b6cf4922885276c7016367315fbcf9e2931dcc

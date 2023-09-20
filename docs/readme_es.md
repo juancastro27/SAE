@@ -1,11 +1,11 @@
-<!-- Banner SAGA -->
+<!-- Banner SAE -->
 <div align="center">
 	<img height="200px" src="../public/img/logo_green_2023.png" alt="Logo SENA"/>
-  <img height="200px" src="../public/img/SAGA.svg" alt="Logo SAGA"/>
+  <img height="200px" src="../public/img/logo.jpg" alt="Logo SAGA"/>
 </div>
 <br>
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1AFF02&center=true&vCenter=true&width=435&lines=Bienvenidos+a+SAGA;Un+proyecto+de+Node.js+y+React.js" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1AFF02&center=true&vCenter=true&width=435&lines=Bienvenidos+a+SAE;Un+proyecto+de+Node.js+y+React.js" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
@@ -27,9 +27,9 @@
 </div>
 
 <!-- Información principal -->
-# SAGA
+# SAE
 
-SAGA es un proyecto formativo, con el objetivo de lograr una mejor gestión en la toma de asistencias, también cuenta con un apartado de noticias y prestamos para la biblioteca
+SAGA es un sistema diseñado para mejorar la administracion de pequeñas y grandes empresas
 
 <!-- Stack utilizado -->
 ## Tech Stack
@@ -78,7 +78,7 @@ SAGA es un proyecto formativo, con el objetivo de lograr una mejor gestión en l
 ```
 
 <div align="center">
-	<img src="./public/img/backend_dev.png" alt="Backend running"/>
+	<img src="../public/img/backend_dev.png" alt="Backend running"/>
 </div>
 
 <br>
@@ -94,7 +94,7 @@ SAGA es un proyecto formativo, con el objetivo de lograr una mejor gestión en l
 ---
 ### 💻Front-end
 <p>
-  Para ejecutar la vista entraremos al directorio raíz del <a href="./frontend/">frontend</a> 
+  Para ejecutar la vista entraremos al directorio raíz del <a href="../public/img/frontend_dev.png">frontend</a> 
 </p>
 
 <p>
@@ -133,17 +133,16 @@ SAGA es un proyecto formativo, con el objetivo de lograr una mejor gestión en l
 <!-- Autores del proyecto -->
 ## 👨‍💻Authors
 
-- [@JuanDiego-Arenas](https://juandiego-arenas.github.io/portfolio/)
-- [@JuanferGG](https://github.com/JuanferGG)
-- [@XH0PE](https://github.com/XH0PE)
+- [@Juancastro27](https://github.com/juancastro27)
+- [@EdwardM28](https://github.com/EdwardM28)
+- [@katheszv](https://github.com/katheszv)
 
 ## 👨‍🏫Leaders Instructors
 - [@hdtoledo](https://github.com/hdtoledo)
-- [@jlombanar](https://github.com/jlombanar)
 
 <!-- Documentación oficial -->
 ## Documentación Oficial
 
-[Documentación v1.9](https://docs.google.com/document/d/1kZ9EadnyI-J2SxvlJGsE3FNvKyZrG7BQ/edit?usp=sharing&ouid=103677181091693336183&rtpof=true&sd=true)
+[Documentación v1.9](https://docs.google.com/document/d/1Savy7Rl1RXcVc7oTE73I-Ue3_nd-7G1Z/edit?usp=sharing&ouid=102635390576364738500&rtpof=true&sd=true)
 
 Hecho con :heart: y JavaScript.
