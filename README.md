@@ -1,6 +1,6 @@
 <!-- Banner SAE -->
 <div align="center">
-	<img height="200px" src="https://drive.google.com/file/d/1neZkjzpHVt8Rt5AT5I8Kyzkd7HZiE4uH/view?usp=sharing" alt="Logo SENA"/>
+	<img height="200px" src="![logo_green_2023](https://github.com/juancastro27/SAE/assets/125914292/2484ad88-7e26-4e22-89c3-1b61431ac1c9)" alt="Logo SENA"/>
   <img height="200px" src="https://drive.google.com/file/d/1wCqVLabf24ayr9u_xPwwt1ZTYRG4q8l1/view?usp=sharing" alt="Logo SAE"/>
 </div>
 <br>
