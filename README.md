@@ -114,9 +114,7 @@ SAGA es un sistema diseñado para mejorar la administracion de pequeñas y grand
 ```bash
   npm run dev
 ```
-<div align="center">
-	<img src="Public/img/backend_dev.png" alt="Backend running"/>
-</div>
+
 
 <br>
 
