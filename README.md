@@ -1,20 +1,19 @@
-<!-- Banner SAE -->
+<!-- Banner SAGA -->
 <div align="center">
-	<img height="200px" src="../public/img/logo_green_2023.png" alt="Logo SENA"/>
-  <img height="200px" src="../public/img/SAGA.svg" alt="Logo SAGA"/>
+	<img height="200px" src="public/img/logo_green_2023.png" alt="Logo SENA"/>
+  <img height="200px" src="public/img/logo.jpg" alt="Logo SAGA"/>
 </div>
 <br>
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Bienvenidos+a+SAE;Un+proyecto+enfocado+en+las+ventas+y+vendedores" alt="Typing SVG" /></a>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=00BFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+SAE;A+business+system" alt="Typing SVG SAE"/>
 </div>
 <br>
 <div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xh0pe&label=Usuarios&color=00BFFF style=flat" alt="Counter" /> </p>
-
+<p align="center"> <img height="24px" src="https://komarev.com/ghpvc/?username=xh0pe&label=Users&color=1abc58&style=flat" alt="Counter" /> </p>
 
 <p>
   ·
-  <a href="/doc/readme_es.md">Español</a>
+  <a href="/docs/readme_es.md">Español</a>
   ·
 </p>
 
@@ -29,7 +28,7 @@
 <!-- Información principal -->
 # SAE
 
-SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan las grandes y pequeñas empresas en el tema de las ventas
+SAE is a project focused on solving the business disorder that large and small companies present in the area of sales.
 
 <!-- Stack utilizado -->
 ## Tech Stack
@@ -51,16 +50,16 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <p>
-  En este proyecto es posibles utilizan yarn como npm.
+  In this project, it is possible to use Yarn as an alternative to npm.
 </p>
 
 ### 🐱‍💻Back-end
 <p>
-  Para ejecutar el servidor primero entramos al directorio raíz del <a href="./backend/">backend</a> 
+  To run the server, start by navigating to the root directory of the <a href="./backend/">backend</a> 
 </p>
 
 <p>
-  Estando acá instalamos las dependencias de yarn/npm
+  Once here, install the Yarn/npm dependencies.
 </p>
 
 ```bash
@@ -70,7 +69,8 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 **Development**
 <p>
-  Si se utiliza en desarrollo utilizaremos:
+  If you are using it in a development environment, use:
+
 </p>
 
 ```bash
@@ -85,8 +85,7 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 **Production**
 <p>
-  Y para producción utilizaremos:
-</p>
+  For production, use:</p>
 
 ```bash
   yarn star
@@ -94,11 +93,11 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 ---
 ### 💻Front-end
 <p>
-  Para ejecutar la vista entraremos al directorio raíz del <a href="./frontend/">frontend</a> 
+  To run the front-end view, navigate to the root directory of the <a href="./frontend/">frontend</a> 
 </p>
 
 <p>
-  Estando acá instalamos las dependencias de yarn/npm acá utilizamos <a href="https://vitejs.dev/">vite</a>
+  While here, install the Yarn/npm dependencies, and we utilize Vite<a href="https://vitejs.dev/"> here.</a>
 </p>
 
 ```bash
@@ -108,7 +107,7 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 **Development**
 <p>
-  Si se utiliza en desarrollo utilizaremos:
+  If you are using it in a development environment, use:
 </p>
 
 ```bash
@@ -122,7 +121,7 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 **Production**
 <p>
-  Y para producción utilizaremos:
+For production, use:
 </p>
 
 ```bash
@@ -135,15 +134,15 @@ SAE es un proyecto enfocado a solucionar el desorden empresarial que presentan l
 
 - [@Juancastro27](https://github.com/juancastro27)
 - [@EdwardoM28](https://github.com/EdwardM28)
-- [@kathe](https://github.com/XH0PE)
+- [@katheszv](https://github.com/katheszv)
 
 ## 👨‍🏫Leaders Instructors
 - [@hdtoledo](https://github.com/hdtoledo)
 
 
 <!-- Documentación oficial -->
-## Documentación Oficial
+## Official Documentation
 
 [Documentación v1.9](https://docs.google.com/document/d/1Savy7Rl1RXcVc7oTE73I-Ue3_nd-7G1Z/edit?usp=sharing&ouid=102635390576364738500&rtpof=true&sd=true)
 
-Hecho con :heart: y JavaScript.
+Made with ❤️ and JavaScript.
