@@ -1,7 +1,7 @@
 <!-- Banner SAE -->
 <div align="center">
 	<img height="200px" src="../public/img/logo_green_2023.png" alt="Logo SENA"/>
-  <img height="200px" src="../public/img/logo.jpg" alt="Logo SAGA"/>
+  <img height="200px" src="../public/img/logo.jpg" alt="Logo SAE"/>
 </div>
 <br>
 <div align="center">
@@ -115,7 +115,7 @@ SAGA es un sistema diseñado para mejorar la administracion de pequeñas y grand
   npm run dev
 ```
 <div align="center">
-	<img src="./public/img/frontend_dev.png" alt="Backend running"/>
+	<img src="../public/img/backend_dev.png" alt="Backend running"/>
 </div>
 
 <br>

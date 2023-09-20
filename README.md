@@ -1,7 +1,7 @@
 <!-- Banner SAE -->
 <div align="center">
-	<img height="200px" src="../public/img/logo_green_2023.png" alt="Logo SENA"/>
-  <img height="200px" src="../public/img/logo.jpg" alt="Logo SAGA"/>
+	<img height="200px" src="./public/img/logo_green_2023.png" alt="Logo SENA"/>
+  <img height="200px" src="./public/img/logo.jpg" alt="Logo SAE"/>
 </div>
 <br>
 <div align="center">
@@ -78,7 +78,7 @@ SAGA es un sistema diseñado para mejorar la administracion de pequeñas y grand
 ```
 
 <div align="center">
-	<img src="../public/img/backend_dev.png" alt="Backend running"/>
+	<img src="./public/img/backend_dev.png" alt="Backend running"/>
 </div>
 
 <br>
@@ -94,7 +94,7 @@ SAGA es un sistema diseñado para mejorar la administracion de pequeñas y grand
 ---
 ### 💻Front-end
 <p>
-  Para ejecutar la vista entraremos al directorio raíz del <a href="../public/img/frontend_dev.png">frontend</a> 
+  Para ejecutar la vista entraremos al directorio raíz del <a href="./public/img/frontend_dev.png">frontend</a> 
 </p>
 
 <p>
@@ -115,7 +115,7 @@ SAGA es un sistema diseñado para mejorar la administracion de pequeñas y grand
   npm run dev
 ```
 <div align="center">
-	<img src="./public/img/frontend_dev.png" alt="Backend running"/>
+	<img src="./public/img/backend_dev.png" alt="Backend running"/>
 </div>
 
 <br>
